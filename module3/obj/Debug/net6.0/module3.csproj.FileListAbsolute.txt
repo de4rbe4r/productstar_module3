@@ -1,0 +1,14 @@
+D:\IT\ProductStar\productstar_module3\module3\bin\Debug\net6.0\module3.exe
+D:\IT\ProductStar\productstar_module3\module3\bin\Debug\net6.0\module3.deps.json
+D:\IT\ProductStar\productstar_module3\module3\bin\Debug\net6.0\module3.runtimeconfig.json
+D:\IT\ProductStar\productstar_module3\module3\bin\Debug\net6.0\module3.dll
+D:\IT\ProductStar\productstar_module3\module3\bin\Debug\net6.0\module3.pdb
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\module3.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\module3.AssemblyInfoInputs.cache
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\module3.AssemblyInfo.cs
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\module3.csproj.CoreCompileInputs.cache
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\module3.dll
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\refint\module3.dll
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\module3.pdb
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\module3.genruntimeconfig.cache
+D:\IT\ProductStar\productstar_module3\module3\obj\Debug\net6.0\ref\module3.dll
